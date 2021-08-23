@@ -9,7 +9,7 @@ The dataset used is from the Personal_Care_Appliances and was analyzed using PyS
 ## How many Vine reviews and non-Vine reviews were there?
 
 o Vine reviews	
-![Vine](images/vine reviews - paid.PNG)
+![Vine](https://github.com/amburu4159/Amazon_Vine_Analysis/blob/main/images/vine%20reviews%20-%20paid.PNG)
 
 
 o Non-Vine reviews
