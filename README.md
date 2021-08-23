@@ -37,5 +37,6 @@ o Non-Vine 5-star reviews percentage
 
 
 ## Summary 
-o There is a higher percentage of 5-star reviews (66%) for vine reviews vs 55% for non-vine reviews. Although the vine reviews are a small sample size, it does suggest that there is a positivity bias for reviews in the vine program
-o Another analysis to support the statement would be to analyze the mean, median and mode of the star rating for the Vine and non-Vine reviews.
+There is a higher percentage of 5-star reviews (66%) for vine reviews vs 55% for non-vine reviews. Although the vine reviews are a small sample size, it does suggest that there is a positivity bias for reviews in the vine program
+
+Another analysis to support the statement would be to analyze the mean, median and mode of the star rating for the Vine and non-Vine reviews.
