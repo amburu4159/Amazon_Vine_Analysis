@@ -10,4 +10,4 @@ The dataset used is from the Personal_Care_Appliances and was analyzed using PyS
 
  o Vine reviews	
 
-![Vine and non vine reviews] (https://github.com/amburu4159/Amazon_Vine_Analysis/blob/main/images/vine%20reviews%20-%20paid.PNG)
+![Vine and non vine reviews](https://github.com/amburu4159/Amazon_Vine_Analysis/blob/main/images/vine%20reviews%20-%20paid.PNG)
