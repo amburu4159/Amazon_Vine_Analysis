@@ -9,8 +9,26 @@ The dataset used is from the Personal_Care_Appliances and was analyzed using PyS
 ## How many Vine reviews and non-Vine reviews were there?
 
 o Vine reviews	
-![Vine and non vine reviews](https://github.com/amburu4159/Amazon_Vine_Analysis/blob/main/images/vine%20reviews%20-%20paid.PNG)
+![Vine](https://github.com/amburu4159/Amazon_Vine_Analysis/blob/main/images/vine%20reviews%20-%20paid.PNG)
 
 
+o Non-Vine reviews
+![Non-Vine](https://github.com/amburu4159/Amazon_Vine_Analysis/blob/main/images/non-vine%20reviews%20-%20unpaid.PNG)
 
-	o Vine reviews
+
+## How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+o Vine 5 star reviews	
+![Vine 5 star](https://github.com/amburu4159/Amazon_Vine_Analysis/blob/main/images/vine%20reviews%20-%205%20stars.PNG)
+
+
+o Non-Vine 5 star reviews	
+![Non-Vine 5 star](https://github.com/amburu4159/Amazon_Vine_Analysis/blob/main/images/non-vine%20reviews%20-%205%20stars.PNG)
+
+
+## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+o Vine 5 star reviews percentage
+![Vine 5 star percentage](https://github.com/amburu4159/Amazon_Vine_Analysis/blob/main/images/vine%20reviews%20-%205%20stars%20percentage.PNG)
+
+
+o Non-Vine 5 star reviews percentage
+![Non-Vine 5 star percentage](https://github.com/amburu4159/Amazon_Vine_Analysis/blob/main/images/non-vine%20reviews%20-%205%20stars%20percentage.PNG)
