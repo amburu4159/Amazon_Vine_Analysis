@@ -9,7 +9,7 @@ The dataset used is from the Personal_Care_Appliances and was analyzed using PyS
 ## How many Vine reviews and non-Vine reviews were there?
 
 o Vine reviews	
-![Vine]()
+![Vine](images/vine reviews - paid.PNG)
 
 
 o Non-Vine reviews
